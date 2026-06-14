@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hey there, I'm Kushal 👋
+# Hey, I'm Kushal 👋
+
 ### Software Development Engineer · AI/ML Enthusiast · VIT Chennai '26
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-choudhary-8044a227b/)
@@ -60,11 +61,37 @@ kushal = {
 
 **Cloud & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🌍 Open Source Contributions
+
+> Contributing to real-world projects, fixing bugs, improving test coverage, and writing docs.
+
+### 🍋 [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)
+
+**Pull Requests Merged / Opened**
+
+| # | PR | Type |
+|---|-----|------|
+| ✅ | [fix: return 400 instead of 500 when request body is empty or not valid JSON](https://github.com/lemonade-sdk/lemonade/pull/2232) | `bug fix` |
+| ✅ | [test: add coverage for GET /v1/pull/variants (4 paths)](https://github.com/lemonade-sdk/lemonade/pull/2096) | `testing` |
+| ✅ | [docs: add LangChain integration guide for Lemonade Server](https://github.com/lemonade-sdk/lemonade/pull/2038) | `documentation` |
+
+**Issues Raised**
+
+| # | Issue | Area |
+|---|-------|------|
+| 🐛 | [POST endpoints return 500 instead of 400 when request body is empty or malformed JSON](https://github.com/lemonade-sdk/lemonade/issues/2231) | `bug` |
+| 🧪 | [Test suite is entirely sequential — no concurrent request test exists to catch race conditions or deadlocks](https://github.com/lemonade-sdk/lemonade/issues/2042) | `testing` |
+| 🧪 | [test_015_embeddings_single_string never tests missing model= — error path has zero coverage](https://github.com/lemonade-sdk/lemonade/issues/2040) | `testing` |
+| 🧪 | [GET /v1/pull/variants has zero test coverage — missing, malformed, and 404 error paths untested](https://github.com/lemonade-sdk/lemonade/issues/2095) | `testing` |
+| 🐛 | [test_021_stats_endpoint is silently skipped — shadowed by duplicate test in server_endpoints.py](https://github.com/lemonade-sdk/lemonade/issues/2041) | `bug` |
 
 ---
 
@@ -102,7 +129,7 @@ Built **QueryCraft**, an AI-powered Text-to-SQL platform that improved SQL accur
 ## 🏅 Certifications
 
 | Certificate | Issuer |
-|---|---|
+|-------------|--------|
 | 🥇 [OCI 2025 Data Science Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D4EAA17EA9DFED30A1F017E10777EF9B6EC9A4B12B9499723A4D96D7D6372DC6) | Oracle |
 | 🥇 [OCI Generative AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1786BCF38C227A8FA2C75878F549DDA014626A53F117C4ABC543BF278F98053) | Oracle |
 | 🥇 [OCI AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=44434D3C6B17B86EC0E1D014475FEA47AB9B3955DDDB9F1DF249EA5FA39D641C) | Oracle |

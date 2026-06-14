@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Kushal%20Choudhary&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%C2%B7%20AI%2FML%20%C2%B7%20Open%20Source%20Contributor&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=220&section=header&text=Kushal%20Choudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%C2%B7%20AI%2FML%20%C2%B7%20Open%20Source%20Contributor&descAlignY=60&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&multiline=true&width=700&height=80&lines=B.Tech+CSE+(AI+%26+Robotics)+%40+VIT+Chennai+%2726;Backend+Engineer+%7C+ML+Practitioner+%7C+OSS+Contributor;Building+production-ready+AI-powered+systems+%E2%98%95)](https://git.io/typing-svg)
 
@@ -10,6 +10,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalchoudhary1213@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushal1213)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kushal1213&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🌊 Activity Graph
+
+<div align="center">
+
+[![Kushal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kushal1213&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -63,7 +73,7 @@ class Kushal:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 
 **Cloud & DevOps**
 
@@ -160,7 +170,7 @@ class Kushal:
 
 **Extern — AI/ML Engineering · SmartBridge** *(Aug 2023 – Nov 2023)*
 
-Built **QueryCraft** — an AI-powered Text-to-SQL platform that converts plain English questions into valid SQL queries.
+Built **QueryCraft** — an AI-powered Text-to-SQL platform that converts plain English into valid SQL queries.
 
 - 🎯 **30% improvement in SQL accuracy** via prompt engineering and schema grounding
 - 🔗 Schema-aware prompt construction to reduce hallucinated column/table names
@@ -186,13 +196,29 @@ Built **QueryCraft** — an AI-powered Text-to-SQL platform that converts plain 
 <img src="https://github-readme-stats.vercel.app/api?username=Kushal1213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal1213&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=Kushal1213&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Kushal1213&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🎯 Skill Meter
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-▓▓▓▓▓▓▓▓▓░-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-▓▓▓▓▓▓▓▓░░-00599C?style=flat-square&logo=cplusplus&logoColor=white)]()
+[![ML/AI](https://img.shields.io/badge/ML%2FAI-▓▓▓▓▓▓▓▓░░-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]()
+[![Backend](https://img.shields.io/badge/Backend-▓▓▓▓▓▓▓▓▓░-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-▓▓▓▓▓▓▓▓░░-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -206,11 +232,11 @@ Built **QueryCraft** — an AI-powered Text-to-SQL platform that converts plain 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Metrics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kushal1213&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![metrics](https://metrics.lecoq.io/Kushal1213?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata)](https://metrics.lecoq.io/)
 
 </div>
 
@@ -218,7 +244,7 @@ Built **QueryCraft** — an AI-powered Text-to-SQL platform that converts plain 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=120&section=footer" width="100%"/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
